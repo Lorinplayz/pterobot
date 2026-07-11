@@ -18,7 +18,7 @@ export default {
 
   data: new SlashCommandBuilder()
 
-    .setName("userslist")
+    .setName("serverlist")
 
     .setDescription("📋 List all users with correct server count"),
 
