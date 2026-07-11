@@ -2,6 +2,9 @@
 
 # Ptero Bot | Discord Control Management Pterodactyl 
 
+`git clone https://github.com/Lorinplayz/pterobot`
+
+
 - Credit:
 If you are using This Then please Keep it Mind 
 to give Credit to **Lorinplayz**
